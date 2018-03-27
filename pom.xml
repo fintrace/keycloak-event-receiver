@@ -7,7 +7,7 @@
     <groupId>org.fintrace</groupId>
     <artifactId>keycloak-event-receiver</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <url>https://github.com/fintrace/keycloak-event-receiver</url>
     <modules>
         <module>keycloak-event-receiver-http</module>
@@ -151,7 +151,7 @@
             <dependency>
                 <groupId>org.fintrace</groupId>
                 <artifactId>keycloak-event-receiver-common</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
