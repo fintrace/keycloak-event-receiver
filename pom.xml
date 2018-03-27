@@ -8,6 +8,8 @@
     <artifactId>keycloak-event-receiver</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1</version>
+    <name>${groupId}:${artifactId}</name>
+    <description>Keycloak event receiver for keycloak-event-publisher library. Has multiple implementations such as HTTP or JMS</description>
     <url>https://github.com/fintrace/keycloak-event-receiver</url>
     <modules>
         <module>keycloak-event-receiver-http</module>
