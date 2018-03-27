@@ -13,7 +13,7 @@ Add dependency in your pom
 <dependency>
     <groupId>org.fintrace</groupId>
     <artifactId>keycloak-event-receiver-http</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 </dependency>
 ```
 After adding dependency, 
